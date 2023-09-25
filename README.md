@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**pphtw/pphtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Phutawan Palakavong. You can call me Pream!. 
+😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+🌱 Currently, I'm studying in IT major at King MongKut's University of Technology Thonburi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I'm interested in website development and deployment.
+
+🔭 now... I'm working on SAS project that is apart of subject in my major. And prepare for Full Stack Developer internship opportunity.
+
+🌟 My Goals! ... To be a Full Stack Developer!
+
+⚡ Fun fact ... I love to learning something new! .. but something I can learning it slowly. 😢
+
