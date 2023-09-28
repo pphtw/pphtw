@@ -12,5 +12,5 @@ I'm Phutawan Palakavong. You can call me Pream!.
 
 🌟 My Goals! ... To be a Full Stack Developer!
 
-⚡ Fun fact ... I love to learning something new! .. but something I can learning it slowly. 😢
+⚡ Fun fact ... I love to learning something new! .. but I can learning something slowly. 😢
 
