@@ -6,7 +6,7 @@ I'm Phutawan Palakavong. You can call me Pream!.
 - 🌱 Currently, I'm studying in IT major at King MongKut's University of Technology Thonburi.
 - 🤔 I'm interested in mobile application development.
 - 🔭 now... I'm working on Thumbkin Application!, the tool that can suggest meal based on kitchen contents.
-- 🌟 My Goals! ... To be a Full Stack Developer!
+- 🌟 My Goals! ... To be a Mobile Application Developer!
 
 
 
